@@ -39,7 +39,6 @@
   ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-<h2 align="center"> #📊 GitHub Stats:</h2>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=baorphucs&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)
  ![](https://github-readme-streak-stats.herokuapp.com/?user=baorphucs&theme=calm_pink&hide_border=false)
