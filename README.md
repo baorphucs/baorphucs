@@ -1,16 +1,18 @@
-## Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Pham Ngoc Bao Phuc. I am Students majoring in information technology engineering. I am interested in the following topics: Web development, data mining and machine learning.<br>
+## 📫 How to reach me: 
 
-<!--
-**baorphucs/baorphucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]((https://github.com/baorphucs)),[![Mail](https://i.stack.imgur.com/tskMh.png) Mail]((doccode.2021@gmail.com))
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Phuc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/baorphucs/Phone-sales-website">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+</a>    
+<a href="https://github.com/baorphucs/WebFilm_ReactJS_NodeJS">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+</a>
