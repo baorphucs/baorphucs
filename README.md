@@ -9,8 +9,8 @@ My name is Pham Ngoc Bao Phuc. I am Students majoring in information technology 
 
 <a href="https://github.com/baorphucs/Phone-sales-website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=baorphucs&repo=Phone Sale Website&theme=radical" />
-</a>    
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=baorphucs&repo=Phone-sales-website&theme=radical" />
+</a> 
 <a href="https://github.com/baorphucs/WebFilm_ReactJS_NodeJS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=baorphucs&repo=WebFilm_ReactJS_NodeJS&theme=radical" />
