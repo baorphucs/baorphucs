@@ -1,6 +1,6 @@
-<h1 align="center">### WELCOME TO MY PAGE 👋👋👋</h1>
+<h1 align="center">WELCOME TO MY PAGE 👋👋👋</h1>
 🌐My name is Pham Ngoc Bao Phuc. I am Students majoring in information technology engineering. I am interested in the following topics: Web development, data mining and machine learning.<br>🎯 Aspiring Backend Developer, eager to contribute to innovative projects and solve complex challenges.<br>🚀 Passionate about building:<br><br>Scalable and reliable back-end systems<br>Efficient and maintainable architectures<br>Seamless and secure integrations<br>Skilled in working with modern technologies such as:<br><br>Backend: Java, Py,NodeJs, SQL/NoSQL <br>Frontend: React, HTML, CSS, JavaScript, Bootstrap<br>Tools & Workflow: Git, Docker, Postman <br>Continuously improving my expertise in:<br><br>System design, API development, and microservices architecture<br>Performance optimization and security best practices<br>Staying adaptable with front-end technologies to deliver cohesive solutions<br>
-<h2 align="center">## 📫 How to reach me:</h2>
+<h2 align="center">📫 How to reach me:</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -39,7 +39,7 @@
   ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=baorphucs&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)
  ![](https://github-readme-streak-stats.herokuapp.com/?user=baorphucs&theme=calm_pink&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baorphucs&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -54,7 +54,7 @@
 
 ---
 
-### ✍️ My Slogan:
+✍️ My Slogan:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
