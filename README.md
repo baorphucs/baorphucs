@@ -21,7 +21,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
-# <h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <div align="center">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -39,7 +39,7 @@
   ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-📊 GitHub Stats:
+<h2 align="center"> #📊 GitHub Stats:</h2>
 ![Phuc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=baorphucs&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/baorphucs/Phone-sales-website">
