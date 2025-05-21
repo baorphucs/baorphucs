@@ -1,7 +1,26 @@
 ### WELCOME TO MY PAGE 👋👋👋
 🌐My name is Pham Ngoc Bao Phuc. I am Students majoring in information technology engineering. I am interested in the following topics: Web development, data mining and machine learning.<br>🎯 Aspiring Backend Developer, eager to contribute to innovative projects and solve complex challenges.<br>🚀 Passionate about building:<br><br>Scalable and reliable back-end systems<br>Efficient and maintainable architectures<br>Seamless and secure integrations<br>Skilled in working with modern technologies such as:<br><br>Backend: Java, JS, SQL/NoSQL <br>Frontend: React, HTML, CSS, JavaScript, Bootstrap<br>Tools & Workflow: Git, Docker, Postman <br>Continuously improving my expertise in:<br><br>System design, API development, and microservices architecture<br>Performance optimization and security best practices<br>Staying adaptable with front-end technologies to deliver cohesive solutions<br>
 ## 📫 How to reach me: 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/baorphucs/)
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+ 
+  <a href="https://www.facebook.com/baorphucs" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  </a>
+  <a href="#" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  </a>
+  <a href="#" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/baorphucs.pn/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  </a>
+  <a href="doccode.2021@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  </a>
+</div>
 # <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <div align="center">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -19,9 +38,7 @@
   
   ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 </div>
-
 ---------------------------------------------------------------------------------------------
-
 
 ![Phuc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=baorphucs&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
