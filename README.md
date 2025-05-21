@@ -51,7 +51,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baorphucs&repo=WebFilm_ReactJS_NodeJS&theme=merko" />
 </a>
+---
+
 ### ✍️ My Slogan:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
