@@ -1,8 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Pham Ngoc Bao Phuc. I am Students majoring in information technology engineering. I am interested in the following topics: Web development, data mining and machine learning.<br>
 ## 📫 How to reach me: 
-
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]((https://github.com/baorphucs)),[![Mail](https://i.stack.imgur.com/tskMh.png) Mail]((doccode.2021@gmail.com))
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/baorphucs/)
 
 
 
