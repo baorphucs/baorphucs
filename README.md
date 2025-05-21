@@ -40,7 +40,10 @@
 </div>
 
 <h2 align="center"> #📊 GitHub Stats:</h2>
-![Phuc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=baorphucs&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=baorphucs&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=baorphucs&theme=calm_pink&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=baorphucs&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <a href="https://github.com/baorphucs/Phone-sales-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baorphucs&repo=Phone-sales-website&theme=radical" />
