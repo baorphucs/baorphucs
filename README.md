@@ -43,13 +43,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=baorphucs&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)
  ![](https://github-readme-streak-stats.herokuapp.com/?user=baorphucs&theme=calm_pink&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baorphucs&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<h2 align="center">##Featured Projects</h2>
 <a href="https://github.com/baorphucs/Phone-sales-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baorphucs&repo=Phone-sales-website&theme=radical" />
 </a>
-
 <a href="https://github.com/baorphucs/WebFilm_ReactJS_NodeJS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baorphucs&repo=WebFilm_ReactJS_NodeJS&theme=merko" />
-
 </a>
