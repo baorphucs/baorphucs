@@ -38,8 +38,8 @@
   
   ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 </div>
----------------------------------------------------------------------------------------------
 
+# 📊 GitHub Stats:
 ![Phuc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=baorphucs&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/baorphucs/Phone-sales-website">
